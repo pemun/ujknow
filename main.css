@@ -1,0 +1,33 @@
+.jumbotron{
+	text-align: center;
+	height: 35vh;
+	background-image: radial-gradient( circle 782px at 49.1% -58.5%, rgba(5,155,206,1) 0%, 
+		rgba(12,85,162,1) 41%, #004085 83.4% );
+	display: flex;
+	align-items: center;
+	color: white;
+}
+
+#main-container{
+	width: 65%;
+	margin: 0 auto;
+}
+
+#main-container p{
+	text-align: center;
+}
+
+#pagi{
+	margin: 20px 0;
+}
+
+footer{
+	color: black;
+	margin-top: 20px;
+	text-align: center;
+}
+
+
+.list-group{
+	text-align: center;
+}
